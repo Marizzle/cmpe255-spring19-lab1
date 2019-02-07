@@ -25,7 +25,7 @@ Hero has 2 friend(s).
 Klein has 1 friend(s).
 ```
 
-Sample Output from
+Sample Output from sort_by_num_friends()
 ```
 Dunn has 3 friend(s).
 Sue has 3 friend(s).
